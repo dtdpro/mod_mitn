@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="1.6.0" client="site" method="upgrade">
 	<name>MitN In the News Module</name>
-	<author>Corona Productions</author>
+	<author>DtD Productions</author>
 	<creationDate>Aug 2009</creationDate>
-	<copyright>(C)2009-2011 Corona Productions All rights reserved.</copyright>
+	<copyright>(C)2009-2011 DtD Productions All rights reserved.</copyright>
 	<license>GPL v2</license>
-	<authorEmail>mamundsen@coronapro.com</authorEmail>
-	<authorUrl>www.coronapro.com</authorUrl>
+	<authorEmail>mike@ditzthedaisy.com</authorEmail>
+	<authorUrl>www.ditzthedaisy.com</authorUrl>
 	<version>1.6</version>
 	<description></description>
 	<files>
