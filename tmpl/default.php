@@ -9,5 +9,5 @@ defined('_JEXEC') or die('Restricted access'); ?>
 <?php endforeach; ?>
 </ul>
 <?php
-if ($showarchivelink) echo '<p align="right"><a href="index.php?option=com_mitn&Itemid='.$params->get('archivelinkid').'">'.$artit.'</a>';
+if ($arshow) echo '<p align="right"><a href="index.php?option=com_mitn&Itemid='.$params->get('archivelinkid').'" class="button">'.$artit.'</a>';
 ?>
